@@ -1,5 +1,5 @@
 {
-  "name": "terminal",
+  "name": "term-simulator",
   "version": "1.0.0",
   "description": "Create a simulated terminal for websites",
   "main": "index.js",
@@ -7,5 +7,13 @@
     "test": "yarn test"
   },
   "author": "Suven-p",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suven-p/term-simulator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Suven-p/term-simulator/issues"
+  },
+  "homepage": "https://github.com/Suven-p/term-simulator#readme"
 }
